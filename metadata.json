@@ -1,0 +1,6 @@
+{
+  "name": "IELTS Speaking Master 2026",
+  "description": "Ứng dụng chatbot AI luyện thi IELTS Speaking chuẩn 4 tiêu chí (FC, LR, GRA, PR), cập nhật topic 2026/2027, thu âm giọng nói và chấm điểm chi tiết.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
